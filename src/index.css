@@ -23,14 +23,6 @@ button:hover {
   text-align: center;
 }
 
-.welcome {
-  display: grid;
-  gap: 1ch;
-  width: 30ch;
-  margin: 0 auto;
-  margin-bottom: 1rem;
-}
-
 .highscores ul {
   list-style: none;
 }
